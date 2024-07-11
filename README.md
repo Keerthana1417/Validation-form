@@ -31,6 +31,7 @@ You will need a web browser (e.g., Chrome, Firefox, Edge) installed on your comp
    git clone https://github.com/Keerthana1417/Validation-form.git
    
 2. Navigate to the project directory
+   ```sh
    cd Validation-form
    
 ## Usage
